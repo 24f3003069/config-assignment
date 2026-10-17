@@ -1,0 +1,5 @@
+
+port: 8535
+debug: true
+log_level: info
+api_key: key-ile5ntrr7h
